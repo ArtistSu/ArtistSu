@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm ArtistS</h1>
+<h1 align="center">Hi 👋, I'm Allen Su</h1>
 <h3 align="center">A BE Tech Innovation Catalyst Engineer</h3>
 
 - 🔭 I’m currently working on **Rhino Bazaar**
