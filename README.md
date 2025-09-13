@@ -36,6 +36,12 @@
     />
   </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+              <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="sketch" width="40" height="40"/> 
+    </a>
+                <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="sketch" width="40" height="40"/> 
+    </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
@@ -57,6 +63,9 @@
         <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
         <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" alt="sketch" width="40" height="40"/> 
     </a>
+     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="sketch" width="40" height="40"/> 
+    </a>
   
 </p>
 
@@ -76,6 +85,6 @@
 
 ###
 <h3 align="left">Database:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="kubernetes" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1331px-Apache_Hive_logo.svg.png?20151020034510" alt="kubernetes" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353866/hbase.svg" alt="hbase" width="40" height="40"/> </a></p>
 
 
