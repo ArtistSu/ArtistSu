@@ -54,6 +54,10 @@
       <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> 
         <img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" alt="sketch" width="40" height="40"/> 
     </a>
+        <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" alt="sketch" width="40" height="40"/> 
+    </a>
+  
 </p>
 
 ###
@@ -69,6 +73,9 @@
 ###
 <h3 align="left">DevOps & Cloud:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
-</br>
+
+###
+<h3 align="left">Database:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="kubernetes" width="40" height="40"/> </a></p>
 
 
