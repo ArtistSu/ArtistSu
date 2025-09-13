@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Repo%2C+I+am+Allen+Su+~+)](https://git.io/typing-svg)
+
+
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Allen Su</h1>
 <h3 align="center">A BE Tech Innovation Catalyst Engineer</h3>
