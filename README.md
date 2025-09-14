@@ -45,6 +45,13 @@
                   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
         <img src="https://icon.icepanel.io/Technology/svg/Gradle.svg" alt="gradle" width="40" height="40"/> 
     </a>
+    </a>
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="swagger" width="40" height="40"/> 
+    </a>    
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Selenium.svg" alt="swagger" width="40" height="40"/> 
+    </a>    
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
